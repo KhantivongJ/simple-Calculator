@@ -114,7 +114,7 @@ namespace Calculator {
 			// button7
 			// 
 			this->button7->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button7->Location = System::Drawing::Point(30, 61);
+			this->button7->Location = System::Drawing::Point(29, 81);
 			this->button7->Name = L"button7";
 			this->button7->Size = System::Drawing::Size(50, 50);
 			this->button7->TabIndex = 0;
@@ -125,7 +125,7 @@ namespace Calculator {
 			// button8
 			// 
 			this->button8->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button8->Location = System::Drawing::Point(86, 61);
+			this->button8->Location = System::Drawing::Point(85, 81);
 			this->button8->Name = L"button8";
 			this->button8->Size = System::Drawing::Size(50, 50);
 			this->button8->TabIndex = 1;
@@ -136,7 +136,7 @@ namespace Calculator {
 			// button9
 			// 
 			this->button9->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button9->Location = System::Drawing::Point(142, 61);
+			this->button9->Location = System::Drawing::Point(141, 81);
 			this->button9->Name = L"button9";
 			this->button9->Size = System::Drawing::Size(50, 50);
 			this->button9->TabIndex = 2;
@@ -147,7 +147,7 @@ namespace Calculator {
 			// button4
 			// 
 			this->button4->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button4->Location = System::Drawing::Point(30, 117);
+			this->button4->Location = System::Drawing::Point(29, 137);
 			this->button4->Name = L"button4";
 			this->button4->Size = System::Drawing::Size(50, 50);
 			this->button4->TabIndex = 3;
@@ -158,7 +158,7 @@ namespace Calculator {
 			// button5
 			// 
 			this->button5->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button5->Location = System::Drawing::Point(86, 117);
+			this->button5->Location = System::Drawing::Point(85, 137);
 			this->button5->Name = L"button5";
 			this->button5->Size = System::Drawing::Size(50, 50);
 			this->button5->TabIndex = 4;
@@ -169,7 +169,7 @@ namespace Calculator {
 			// button6
 			// 
 			this->button6->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button6->Location = System::Drawing::Point(142, 117);
+			this->button6->Location = System::Drawing::Point(141, 137);
 			this->button6->Name = L"button6";
 			this->button6->Size = System::Drawing::Size(50, 50);
 			this->button6->TabIndex = 5;
@@ -180,7 +180,7 @@ namespace Calculator {
 			// button1
 			// 
 			this->button1->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button1->Location = System::Drawing::Point(30, 173);
+			this->button1->Location = System::Drawing::Point(29, 193);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(50, 50);
 			this->button1->TabIndex = 6;
@@ -191,7 +191,7 @@ namespace Calculator {
 			// button2
 			// 
 			this->button2->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button2->Location = System::Drawing::Point(86, 173);
+			this->button2->Location = System::Drawing::Point(85, 193);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(50, 50);
 			this->button2->TabIndex = 7;
@@ -202,7 +202,7 @@ namespace Calculator {
 			// button3
 			// 
 			this->button3->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button3->Location = System::Drawing::Point(142, 173);
+			this->button3->Location = System::Drawing::Point(141, 193);
 			this->button3->Name = L"button3";
 			this->button3->Size = System::Drawing::Size(50, 50);
 			this->button3->TabIndex = 8;
@@ -213,7 +213,7 @@ namespace Calculator {
 			// button0
 			// 
 			this->button0->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->button0->Location = System::Drawing::Point(30, 229);
+			this->button0->Location = System::Drawing::Point(29, 249);
 			this->button0->Name = L"button0";
 			this->button0->Size = System::Drawing::Size(50, 50);
 			this->button0->TabIndex = 9;
@@ -225,7 +225,7 @@ namespace Calculator {
 			// 
 			this->buttonPlus->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->buttonPlus->Location = System::Drawing::Point(198, 61);
+			this->buttonPlus->Location = System::Drawing::Point(197, 81);
 			this->buttonPlus->Name = L"buttonPlus";
 			this->buttonPlus->Size = System::Drawing::Size(50, 50);
 			this->buttonPlus->TabIndex = 10;
@@ -236,7 +236,7 @@ namespace Calculator {
 			// buttonSubtract
 			// 
 			this->buttonSubtract->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->buttonSubtract->Location = System::Drawing::Point(198, 117);
+			this->buttonSubtract->Location = System::Drawing::Point(197, 137);
 			this->buttonSubtract->Name = L"buttonSubtract";
 			this->buttonSubtract->Size = System::Drawing::Size(50, 50);
 			this->buttonSubtract->TabIndex = 11;
@@ -247,7 +247,7 @@ namespace Calculator {
 			// buttonMultiply
 			// 
 			this->buttonMultiply->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->buttonMultiply->Location = System::Drawing::Point(198, 173);
+			this->buttonMultiply->Location = System::Drawing::Point(197, 193);
 			this->buttonMultiply->Name = L"buttonMultiply";
 			this->buttonMultiply->Size = System::Drawing::Size(50, 50);
 			this->buttonMultiply->TabIndex = 12;
@@ -258,7 +258,7 @@ namespace Calculator {
 			// buttonDivide
 			// 
 			this->buttonDivide->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->buttonDivide->Location = System::Drawing::Point(198, 229);
+			this->buttonDivide->Location = System::Drawing::Point(197, 249);
 			this->buttonDivide->Name = L"buttonDivide";
 			this->buttonDivide->Size = System::Drawing::Size(50, 50);
 			this->buttonDivide->TabIndex = 13;
@@ -269,7 +269,7 @@ namespace Calculator {
 			// buttonEquals
 			// 
 			this->buttonEquals->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->buttonEquals->Location = System::Drawing::Point(142, 229);
+			this->buttonEquals->Location = System::Drawing::Point(141, 249);
 			this->buttonEquals->Name = L"buttonEquals";
 			this->buttonEquals->Size = System::Drawing::Size(50, 50);
 			this->buttonEquals->TabIndex = 14;
@@ -280,7 +280,7 @@ namespace Calculator {
 			// buttonClear
 			// 
 			this->buttonClear->Font = (gcnew System::Drawing::Font(L"Arial Black", 20.25F, System::Drawing::FontStyle::Bold));
-			this->buttonClear->Location = System::Drawing::Point(86, 229);
+			this->buttonClear->Location = System::Drawing::Point(85, 249);
 			this->buttonClear->Name = L"buttonClear";
 			this->buttonClear->Size = System::Drawing::Size(50, 50);
 			this->buttonClear->TabIndex = 15;
@@ -291,7 +291,7 @@ namespace Calculator {
 			// numDisplay
 			// 
 			this->numDisplay->Font = (gcnew System::Drawing::Font(L"Arial Black", 16, System::Drawing::FontStyle::Bold));
-			this->numDisplay->Location = System::Drawing::Point(30, 12);
+			this->numDisplay->Location = System::Drawing::Point(29, 32);
 			this->numDisplay->Name = L"numDisplay";
 			this->numDisplay->Size = System::Drawing::Size(218, 38);
 			this->numDisplay->TabIndex = 20;
@@ -303,7 +303,7 @@ namespace Calculator {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(273, 299);
+			this->ClientSize = System::Drawing::Size(273, 327);
 			this->Controls->Add(this->numDisplay);
 			this->Controls->Add(this->buttonClear);
 			this->Controls->Add(this->buttonEquals);
@@ -323,6 +323,7 @@ namespace Calculator {
 			this->Controls->Add(this->button7);
 			this->Name = L"MyForm";
 			this->Text = L"Calculator";
+			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -481,6 +482,8 @@ namespace Calculator {
 
 
 private: System::Void numDisplay_TextChanged_1(System::Object^ sender, System::EventArgs^ e) {
+}
+private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 };
 }
